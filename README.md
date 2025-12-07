@@ -1,18 +1,24 @@
-# 👋 Hi there, I'm Dharani Dharan
+# 👋 Hi there, I'm **Dharani Dharan**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Problem+Solver;Passionate+Learner;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Problem+Solver;Passionate+Learner;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharani-ctrl&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
 ## 🚀 About Me
-I'm a passionate **MERN Stack Developer** who loves transforming ideas into scalable and user-friendly web applications.  
+I'm a passionate **MERN Stack Developer** who loves turning ideas into real applications 🚀  
 I enjoy solving real-world problems through clean code, collaboration, and continuous learning.
 
 - 🌱 Currently learning **DevOps & Cloud Deployment**
 - ⚡ Focused on building **real-world MERN solutions**
-- 🤝 Open to collaborating on **Open-Source & MERN projects**
+- 🤝 Open to collaborating on **Open-Source & MERN Projects**
 - 💬 Ask me about **Node.js, Express, MongoDB, REST API, Git**
 
 > _"Your only limit is your mind — learn, build, and grow every day."_
@@ -42,11 +48,19 @@ I enjoy solving real-world problems through clean code, collaboration, and conti
 
 ---
 
-## 📊 GitHub Stats
-
+## 🏆 GitHub Trophies
 <div align="center">
   
-![Dharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharani-ctrl&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dharani-ctrl&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharani-ctrl&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-ctrl&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dharani-ctrl&theme=radical)
 
@@ -54,9 +68,26 @@ I enjoy solving real-world problems through clean code, collaboration, and conti
 
 ---
 
-## 🔗 Connect With Me
+## 🔥 Contribution Graph
+<div align="center">
 
-<p align="left">
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharani-ctrl&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Snake Contribution Animation
+<div align="center">
+
+![Snake Animation](https://github.com/Dharani-ctrl/Dharani-ctrl/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
 <a href="https://www.linkedin.com/in/dharanidharant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dharanidharant-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://github.com/Dharani-ctrl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>

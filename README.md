@@ -77,14 +77,7 @@ I enjoy solving real-world problems through clean code, collaboration, and conti
 
 ---
 
-## 🐍 Snake Contribution Animation
-<div align="center">
 
-![Snake Animation](https://github.com/Dharani-ctrl/Dharani-ctrl/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 🔗 Connect With Me
 <p align="center">
